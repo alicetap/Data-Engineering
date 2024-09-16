@@ -13,6 +13,11 @@ Welcome to my Data Engineering Projects repository! This space hosts some projec
   - Data Stack: Databricks, BigQuery.
   - Medium Article: [Data Transfer Between Databricks and BigQuery with PySpark.](https://medium.com/@alice_thomaz/109eb89a2457)
 
+- [**Project 3: Lambda - Redshift x MySQL**](https://github.com/alice-thomaz/Data-Engineering/tree/master/P3_Redshift_x_MySQL)
+  - This project aims to facilitate data transfer between Redshift and MySQL. This process plays a crucial role in migrating analytical data to our production environment, allowing it to be reflected on our official product platform. This enhances client access to the content.
+  - Data Stack: Redshift, Mysql, Lambda, AWS.
+  - Medium Article: [Data Transfer Between Redshift and MySQL with Python.](https://medium.com/@alice_thomaz/0bfa0003cee9)
+
 ## Getting Started
 1. Choose a project from the list above.
 2. Follow the provided link to access the project repository.
