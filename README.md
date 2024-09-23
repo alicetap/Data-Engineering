@@ -18,6 +18,15 @@ Welcome to my Data Engineering Projects repository! This space hosts some projec
   - Data Stack: Redshift, Mysql, Lambda, AWS.
   - Medium Article: [Data Transfer Between Redshift and MySQL with Python.](https://medium.com/@alice_thomaz/0bfa0003cee9)
 
+- [**Project 4: Lambdas - Multi-Cloud Campaign**](https://github.com/alice-thomaz/Data-Engineering/tree/master/P4_MultiCloud_Campaign)
+  - The project aims to provide business areas with data as close to real-time as possible for the Black Friday campaign, utilizing a final visualization in Power BI, without increasing the company's cloud environment costs. To achieve this, we have adapted our existing architecture to meet all requirements during the campaign period. This repository contains the code used in the main Lambda functions of the multi-cloud project:
+    - Transferring files from SharePoint to Redshift.
+    - Updating Analysis Services.
+    - Transferring data from AWS S3 to Azure Blob.
+    - Transferring data from Redshift to S3.
+  - Data Stack: Redshift, S3, Lambda, AWS, Analysis Services, Azure Blob, Azure, SharePoint.
+  - Medium Article: [Maximizing Data Architecture Efficiency with AWS and Azure.](https://medium.com/@alice_thomaz/146395ca42b3)
+
 ## Getting Started
 1. Choose a project from the list above.
 2. Follow the provided link to access the project repository.
