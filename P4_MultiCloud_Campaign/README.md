@@ -1,10 +1,10 @@
 # Project 4: Lambdas - Multi-Cloud Campaign
 
-The project aims to provide business areas with data as close to real-time as possible for the Black Friday campaign, utilizing a final visualization in Power BI, without increasing the company's cloud environment costs. To achieve this, we have adapted our existing architecture to meet all requirements during the campaign period. This repository contains the code used in the main Lambda functions of the multi-cloud project:
-  → Transferring files from SharePoint to Redshift.
-  → Updating Analysis Services.
-  → Transferring data from AWS S3 to Azure Blob.
-  → Transferring data from Redshift to S3.
+The project aims to provide business areas with data as close to real-time as possible for the Black Friday campaign, utilizing a final visualization in Power BI, without increasing the company's cloud environment costs. To achieve this, we have adapted our existing architecture to meet all requirements during the campaign period. This repository contains the code used in the main Lambda functions of the multi-cloud project: \
+  → Transferring files from SharePoint to Redshift. \
+  → Updating Analysis Services. \
+  → Transferring data from AWS S3 to Azure Blob. \
+  → Transferring data from Redshift to S3. 
 
 - **Data Stack**: Redshift, S3, Lambda, AWS, Analysis Services, Azure Blob, Azure, SharePoint.
 
